@@ -1,5 +1,5 @@
-baseURL = "https://example.docsy.dev/"
-title = "Goldydocs"
+baseURL = "https://kaukang.taigi.info/"
+title = "狗公會曉學台語"
 
 # Language settings
 contentDir = "content/en"
