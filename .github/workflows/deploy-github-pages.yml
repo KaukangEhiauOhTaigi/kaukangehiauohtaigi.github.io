@@ -24,7 +24,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.124.1'
+          hugo-version: 'latest'
           extended: true
 
       - name: Setup Node
@@ -35,6 +35,7 @@ jobs:
           cache-dependency-path: '**/package-lock.json'
 
       - run: npm ci
+      - run: npm run build:production
       - run: hugo --baseURL https://${REPO_OWNER}.github.io/${REPO_NAME} --minify
 
       - name: Deploy
@@ -42,3 +43,6 @@ jobs:
         if: ${{ github.ref == 'refs/heads/main' }} # <-- specify same branch as above here
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          # publish_branch: gh-pages # default: gh-pages
+          cname: kaukang.taigi.info   # default: no custom domain
