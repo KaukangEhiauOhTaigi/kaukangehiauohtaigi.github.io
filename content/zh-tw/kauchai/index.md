@@ -43,7 +43,7 @@ Learn How to Learn Taigi in 9 Days!
 {.text-center}
 
 <div style="text-align: center">
-<a class="btn btn-lg btn-primary me-3 mb-4" href="https://bit.ly/kauchai20221218" target="_blank">
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://bit.ly/kauchai20240419" target="_blank">
   Táng-ló͘ / Download / 下載 <i class="fa-solid fa-file-arrow-down ms-2"></i>
 </a>
 </div>
