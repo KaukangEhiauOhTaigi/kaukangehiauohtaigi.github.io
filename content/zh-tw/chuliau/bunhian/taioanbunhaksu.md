@@ -1,0 +1,20 @@
+---
+title: 台灣文學史 Tâi-oân Bûn-ha̍k Sú
+description: 台灣文學史、台語文學史
+tags: [台灣文學史, 台語文學史, 台灣文學, 台語文學]
+weight: 3
+date: 2022-04-19
+---
+
+## 網站
+
+- [台語文學發展史](https://db.nmtl.gov.tw/site3/intro)
+  - 台語文學發展年表
+  - 台語作家著作目錄
+
+## 冊
+
+- 台語文學發展史
+  - [台語文學發展年表](https://www.govbooks.com.tw/books/106115)
+  - [台語作家著作目錄](https://www.govbooks.com.tw/books/106434)
+- [台灣文學史長編33：舌尖與筆尖──台灣母語文學的發展](https://www.govbooks.com.tw/books/97101)

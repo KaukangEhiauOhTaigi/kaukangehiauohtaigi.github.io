@@ -1,0 +1,9 @@
+// disable links: https://www.docsy.dev/docs/adding-content/repository-links/#disabling-links
+.td-page-meta__view,
+.td-page-meta__edit,
+.td-page-meta__child,
+.td-page-meta__issue,
+.td-page-meta__project-issue,
+.td-page-meta__print {
+    display: none;
+}
