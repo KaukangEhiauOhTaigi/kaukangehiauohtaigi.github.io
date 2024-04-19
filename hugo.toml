@@ -192,7 +192,7 @@ desc = "Discuss development issues around the project"
 # workspace = "docsy.work"
 [module.hugoVersion]
 extended = true
-min = "0.125.1"
+min = "0.124.1"
 [[module.imports]]
 path = "github.com/google/docsy"
 disable = false
