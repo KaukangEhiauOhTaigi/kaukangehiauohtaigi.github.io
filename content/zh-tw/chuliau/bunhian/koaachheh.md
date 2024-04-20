@@ -2,8 +2,14 @@
 title: 歌仔冊 Koa-á-chheh
 description: 唸歌ê歌詞本就是歌á冊，是台灣民間要緊ê藝術表演，是台語文重要ê資產。Mā有講是七字仔（漢字）、鬥句。
 weight: 2
-date: 2022-04-19
+date: 2022-04-20
 ---
+
+## 紹介
+
+- [台灣歌á冊kap唸歌簡史／丁鳳珍](https://www.youtube.com/watch?v=k6WdRj_gbQs&list=PLY6hOIPHm4CT5cv9GbChCt7_ZJLjvwtLq&index=1)
+- [日治時期台灣歌á冊選讀／丁鳳珍](<<https://www.youtube.com/watch?v=uK5E9fhOxN8&list=PLY6hOIPHm4CT5cv9GbChCt7_ZJLjvwtLq&index=2>)
+- [當代「Koa-á-sian歌á先」作品選讀／丁鳳珍](<<https://www.youtube.com/watch?v=sS5uqqK-3sg&list=PLY6hOIPHm4CT5cv9GbChCt7_ZJLjvwtLq&index=3>)
 
 ## 原冊掃瞄檔案
 
@@ -65,7 +71,8 @@ date: 2022-04-19
 
 ### 文章
 
-- [1963 《台湾語講座》（台灣話講座） 王育德](http://www.taiouan.com.tw/catalog/product_info.php?products_id=6204&osCsid=rl62an29tp5f72lu56j95obga3)
+- [有關歌仔冊的研究與資訊](https://activityfile.nmtl.gov.tw/nmtldb/files/koaachheh/%E6%9C%89%E9%97%9C%E6%AD%8C%E4%BB%94%E5%86%8A%E7%9A%84%E7%A0%94%E7%A9%B6%E8%88%87%E8%B3%87%E8%A8%8A.pdf)
+- [1963《台湾語講座》王育德](http://www.taiouan.com.tw/catalog/product_info.php?products_id=6204&osCsid=rl62an29tp5f72lu56j95obga3)
   - 第17回 歌仔冊の話（1）
   - 第18回 歌仔冊の話（2）
   - 第19回 歌仔冊の話（3）

@@ -52,7 +52,4 @@ Learn How to Learn Taigi in 9 Days!
 {.h4 .text-center}
 （有時間有需要就會更新）
 {.h5 .text-center}
-
-舊版：[2022.12.18](https://bit.ly/kauchai20221218)
-{.h4 .text-center .mt-5}
 {{% /blocks/section %}}
