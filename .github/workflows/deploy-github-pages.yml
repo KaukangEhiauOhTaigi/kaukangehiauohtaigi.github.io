@@ -42,4 +42,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           # publish_branch: gh-pages # default: gh-pages
-          cname: kaukang.taigi.info   # default: no custom domain
+          cname: oh.taigi.info   # default: no custom domain

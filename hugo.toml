@@ -1,4 +1,4 @@
-baseURL = "https://kaukang.taigi.info/"
+baseURL = "https://oh.taigi.info/"
 title = "狗公會曉學台語 Learn How to Learn Taigi in 9 Days"
 
 # Language settings
@@ -115,7 +115,7 @@ version = "2024.04.16"
 
 # A link to latest version of the docs. Used in the "version-banner" partial to
 # point people to the main doc site.
-url_latest_version = "https://kaukang.taigi.info/"
+url_latest_version = "https://oh.taigi.info/"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
 # github_repo = "https://github.com/google/docsy-example"
