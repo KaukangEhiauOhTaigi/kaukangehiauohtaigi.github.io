@@ -8,8 +8,8 @@ date: 2022-04-20
 ## 紹介
 
 - [台灣歌á冊kap唸歌簡史／丁鳳珍](https://www.youtube.com/watch?v=k6WdRj_gbQs&list=PLY6hOIPHm4CT5cv9GbChCt7_ZJLjvwtLq&index=1)
-- [日治時期台灣歌á冊選讀／丁鳳珍](<<https://www.youtube.com/watch?v=uK5E9fhOxN8&list=PLY6hOIPHm4CT5cv9GbChCt7_ZJLjvwtLq&index=2>)
-- [當代「Koa-á-sian歌á先」作品選讀／丁鳳珍](<<https://www.youtube.com/watch?v=sS5uqqK-3sg&list=PLY6hOIPHm4CT5cv9GbChCt7_ZJLjvwtLq&index=3>)
+- [日治時期台灣歌á冊選讀／丁鳳珍](https://www.youtube.com/watch?v=uK5E9fhOxN8&list=PLY6hOIPHm4CT5cv9GbChCt7_ZJLjvwtLq&index=2)
+- [當代「Koa-á-sian歌á先」作品選讀／丁鳳珍](https://www.youtube.com/watch?v=sS5uqqK-3sg&list=PLY6hOIPHm4CT5cv9GbChCt7_ZJLjvwtLq&index=3)
 
 ## 原冊掃瞄檔案
 
@@ -58,6 +58,7 @@ date: 2022-04-20
 ## 冊
 
 - [歌仔冊小事典（上）（下）、歌仔冊常用臺語韻腳小詞典](https://www.nmtl.gov.tw/News_Content_Book.aspx?n=3852&s=139111)
+- [歌仔冊ê心適代](https://www.wunan.com.tw/bookdetail?NO=16783)
 
 ## 創作者
 
