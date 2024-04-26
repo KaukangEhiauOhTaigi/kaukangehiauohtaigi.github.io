@@ -1,5 +1,5 @@
 baseURL = "https://oh.taigi.info/"
-title = "狗公會曉學台語 Learn How to Learn Taigi in 9 Days"
+title = "狗公會曉學台語"
 
 # Language settings
 contentDir = "content/zh-tw"
@@ -70,7 +70,7 @@ contentDir = "content/en"
 # Weight used for sorting.
 weight = 3
 [languages.en.params]
-title = "Learn How to Learn Taigi in 9 Days!"
+title = "Learn Taigi in 9 Days!"
 description = "Learn How to Learn Taigi in 9 Days!"
 
 [markup]
@@ -173,17 +173,17 @@ enable = false
 
 [params.links]
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
-[[params.links.user]]
-name = "網址樹á"
-url = "https://example.org/mail"
-icon = "fa fa-envelope"
-desc = "Discussion and help from your fellow users"
+# [[params.links.user]]
+# name = "連絡作者"
+# url = "https://linktr.ee/ngoohebi"
+# icon = "fa fa-envelope"
+# desc = "Hê-bí"
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
-name = "電子批桶"
-url = "https://example.org/mail"
+name = "連絡作者"
+url = "https://linktr.ee/ngoohebi"
 icon = "fa fa-envelope"
-desc = "Discuss development issues around the project"
+desc = "Hê-bí"
 
 # hugo module configuration
 
