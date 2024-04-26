@@ -48,7 +48,7 @@ Learn How to Learn Taigi in 9 Days!
 </a>
 </div>
 
-版本：2024.04.19
+版本：2024.04.26
 {.h4 .text-center}
 （有時間有需要就會更新）
 {.h5 .text-center}
