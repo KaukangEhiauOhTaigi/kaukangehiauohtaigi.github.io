@@ -43,12 +43,12 @@ Learn How to Learn Taigi in 9 Days!
 {.text-center}
 
 <div style="text-align: center">
-<a class="btn btn-lg btn-primary me-3 mb-4" href="https://bit.ly/ohtaigi20240426" target="_blank">
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://bit.ly/ohtaigi20240427" target="_blank">
   Táng-ló͘ / Download / 下載 <i class="fa-solid fa-file-arrow-down ms-2"></i>
 </a>
 </div>
 
-版本：2024.04.26
+版本：2024.04.27
 {.h4 .text-center}
 （有時間有需要就會更新）
 {.h5 .text-center}
