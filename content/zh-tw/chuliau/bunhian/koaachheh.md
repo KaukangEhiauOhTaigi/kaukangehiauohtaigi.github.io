@@ -28,7 +28,7 @@ date: 2022-04-20
 
 ## 歌á先
 
-- 歌á先傳記 <https://db.nmtl.gov.tw/site4/s5/filelist?mid=3>
+- [歌á先傳記](https://db.nmtl.gov.tw/site4/s5/filelist?mid=3)
 
 ### 周定邦 Chiu Tēng-pang
 
