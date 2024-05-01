@@ -14,16 +14,16 @@ title: 狗公會曉學台語
 {{< /blocks/cover >}}
 
 {{% blocks/lead color="primary" %}}
-羅字好寫發音準，粒積語句讀台文，講咱母語是根本，做伙學習台語文。
+台灣字是咱自本，粒積語句靠台文，傳承母語顧根本，做伙學習台語文。
 {.h2 .text-center}
 
-Lô jī hó siá hoat-im chún
+Tâi-oân-jī sī lán chū-pún
 {.h2 .text-center .mt-5}
 
-Lia̍p-chek gí-kù tha̍k Tâi-bûn
+Lia̍p-chek gí-kù khò Tâi-bûn
 {.h2 .text-center}
 
-Kóng lán bó-gí sī kin-pún
+Thoân-sêng bó-gí kò͘ kin-pún
 {.h2 .text-center}
 
 Chò-hóe ha̍k-si̍p Tâi-gí-bûn

@@ -1,9 +1,10 @@
 ---
 title: 台語文運動史 Tâi-gí-bûn Ūn-tōng Sú
-description: 
+linkTitle: 台語文運動史
+description: 學台語文一定ài知影siăn-pái teh做siáⁿ-mih代。
 tags: [台語文運動, 台語文運動史]
 weight: 4
-date: 2022-04-19
+date: 2024-04-19
 ---
 
 ## 入門冊、專門冊
@@ -17,9 +18,9 @@ date: 2022-04-19
 
 ### 海外
 
+- [《台文通訊》](https://taibunthongsin.taigi.info/)
 - [《台文通訊》、北美台語文運動ê寫真回顧](http://taigi.fhl.net/vcd/rotaiugbk.php?user=taigi&bid=3&proc=read&msgno=54&)
 - ~~[北美地區台語文之研究、教學及推廣](http://ip194097.ntcu.edu.tw/chuliau/thuikong/khinhoaN/PakbiTGB.htm)~~
-- [台文通訊](https://taibunthongsin.taigi.info/)
 
 ### 島內
 
@@ -30,14 +31,14 @@ date: 2022-04-19
 - [台灣羅馬字協會ê時代意義kap任務](http://www.tlh.org.tw/2015/chuliau/tlh_siaukai.pdf)
 - [Châu-khut‧自覺‧堅心：台語文學推廣之管見](https://www.slideserve.com/lahela/ch-u-khut)
 
-### 名稱
-
-- [「閩南語」值時出世？](https://www.facebook.com/notes/730890937639495/)
-
 ### 文字
 
 - [40年ê文字思考](http://www.twlls.org.tw/jtll/documents/12.2-5.pdf)
 - [工欲善其事 必先利其器－談台語文輸入法](https://taigi.fhl.net/vcd/rotaiugbk.php?user=taigi&proc=attach&bid=31&file=M.1610381015.A.1.pdf&subj=工欲善其事_必先利其器—談台語文輸入法by林俊育.潘為欣1&msgno=13)
+
+### 名稱
+
+- [「閩南語」值時出世？](https://www.facebook.com/notes/730890937639495/)
 
 ## 台灣文學論戰、台語文論戰
 

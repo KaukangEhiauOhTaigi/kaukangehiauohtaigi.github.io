@@ -1,8 +1,9 @@
 ---
 title: 其他--ê Kî-thaⁿ--ê
-description: 
+linkTitle: 其他--ê
+description: 補充資料。
 weight: 5
-date: 2022-04-19
+date: 2024-04-19
 ---
 
 ## 數位文字資料

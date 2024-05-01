@@ -1,11 +1,12 @@
 ---
 title: 歌仔冊 Koa-á-chheh
-description: 唸歌ê歌詞本就是歌á冊，是台灣民間要緊ê藝術表演，是台語文重要ê資產。Mā有講是七字仔（漢字）、鬥句。
+linkTitle: 歌仔冊
+description: 唸歌ê歌詞本就是歌á冊，是台灣民間要緊ê藝術表演，是台語文重要ê資產。
 weight: 2
-date: 2022-04-20
+date: 2024-04-20
 ---
 
-## 紹介
+## 影片紹介
 
 - [台灣歌á冊kap唸歌簡史／丁鳳珍](https://www.youtube.com/watch?v=k6WdRj_gbQs&list=PLY6hOIPHm4CT5cv9GbChCt7_ZJLjvwtLq&index=1)
 - [日治時期台灣歌á冊選讀／丁鳳珍](https://www.youtube.com/watch?v=uK5E9fhOxN8&list=PLY6hOIPHm4CT5cv9GbChCt7_ZJLjvwtLq&index=2)
@@ -79,7 +80,7 @@ date: 2022-04-20
   - 第19回 歌仔冊の話（3）
   - 第20回 歌仔冊の話（補講）
 
-### 組織
+### 相關組織
 
 - [台灣歌仔冊學會](https://www.facebook.com/groups/247421081991458/)
 
