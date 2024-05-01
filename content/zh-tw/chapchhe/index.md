@@ -10,7 +10,7 @@ cascade: {type: "about"}
 {{% /blocks/cover %}}
 
 {{% blocks/lead %}}
-大家平安，我叫Hê-bí。全職ê台語文工作者、台語文正常化ê chhui-sak者。
+平安，我叫Hê-bí。全職ê台語文工作者、台語文正常化ê chhui-sak者。
 {.h3 .text-center}
 
 目前主要teh做 [台文雞絲麵 Tâi-bûn Ke-si Mī](https://linktr.ee/taibunkesimi) 公益募資計劃（2020~）。
