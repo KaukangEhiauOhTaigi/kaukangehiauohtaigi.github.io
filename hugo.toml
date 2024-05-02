@@ -130,7 +130,7 @@ url_latest_version = "https://oh.taigi.info/"
 github_branch = "main"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
-gcs_engine_id = "d72aa9b2712488cc3"
+gcs_engine_id = "52265ad8b4c2b4dc1"
 
 # Enable Lunr.js offline search
 offlineSearch = false
