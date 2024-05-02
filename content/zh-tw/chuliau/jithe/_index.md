@@ -1,6 +1,6 @@
 ---
 title: 字體（font）Jī-thé
-linkTitle: 字體
+linkTitle: 字體（font）
 description: 各種字體 jī-thé（font）、字派 jī-phài（typeface）。
 weight: 6
 date: 2024-05-02
