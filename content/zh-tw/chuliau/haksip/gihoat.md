@@ -2,7 +2,7 @@
 title: 語法 Gí-hoat
 linkTitle: 語法
 description: 台語構詞、句法、語法。
-weight: 7
+weight: 4
 date: 2024-05-03
 ---
 

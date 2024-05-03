@@ -2,8 +2,8 @@
 title: 詞典 Sû-tián
 linkTitle: 詞典
 description: 台語ê字詞典猶原bē少，有啥？按怎kéng（選）？
-weight: 3
-date: 2024-05-02
+weight: 2
+date: 2024-05-03
 ---
 
 ## 網站

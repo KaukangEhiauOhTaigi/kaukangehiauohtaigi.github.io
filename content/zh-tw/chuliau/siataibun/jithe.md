@@ -2,11 +2,15 @@
 title: 字體（font）Jī-thé
 linkTitle: 字體（font）
 description: 各種字體 jī-thé（font）、字派 jī-phài（typeface）。
-weight: 6
-date: 2024-05-02
+weight: 2
+date: 2024-05-03
 ---
 
-請注意！一般電腦ê字體lóng無完整支援台文，建議一定ài安裝台文字體。
+## 請注意
+
+- 一般電腦ê字體lóng無完整支援台文，建議一定ài安裝台文字體。
+- 檔案nā beh傳hō͘別人a̍h是傳去別ê設備使用，字體ài têng安裝，數位檔案ê版可能會走--去，ài先檢查。
+- Nā beh印--出-來ê時，數位檔案文字一定lóng ài先轉做圖（convert text to outline）。
 
 ## 安裝
 

@@ -2,8 +2,8 @@
 title: Phah字軟體 Phah Jī Nńg-thé（輸入法）
 linkTitle: Phah字軟體
 description: Phah字（寫字）上要緊ê ke-si（工具）。
-weight: 4
-date: 2024-05-02
+weight: 1
+date: 2024-05-03
 ---
 
 ## 手機á
