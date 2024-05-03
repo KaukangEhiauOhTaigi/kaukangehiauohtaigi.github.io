@@ -12,6 +12,8 @@ date: 2024-05-03
 
 - [ChhoeTaigi 台語辭典⁺](https://chhoe.taigi.info)
   - 資料siōng完整，語詞siōng chē，功能siōng齊全！
+- [ChhoeTaigi 冊讀á](https://thak.taigi.info/)
+  - ChhoeTaigi原冊掃瞄、線頂索引、文獻。
 
 ### 台語信望愛
 
@@ -53,3 +55,20 @@ date: 2024-05-03
 #### iOS系統
 
 - [芋圓台語字典 Taro Dictionary](https://apps.apple.com/tw/app/%E8%8A%8B%E5%9C%93%E5%8F%B0%E8%AA%9E%E5%AD%97%E5%85%B8-taro-dictionary/id6477933002)
+
+## 冊
+
+- [TJ台語白話小詞典](https://www.pcstore.com.tw/haiang/M19279123.htm)
+  - 推薦你一定ài買chit本！細本好掀koh實用。
+  - 特色：
+    - 補充《台日大辭典》無ê現代詞，特別是生活chia̍p用ê詞。
+    - 借詞有記詞源。Ē-sái排除中國語借詞，khah有台語khùi。
+    - 名詞有記助數詞，方便學習。
+    - 有khioh口語語音變化，khah好chhōe tio̍h語詞。
+    - 語詞lia̍h詞性分拆，照意思解說，簡單m̄ koh真幼路。
+
+- [TJ中台字詞典](https://www.pcstore.com.tw/haiang/M86610079.htm)
+  - 中國語chhōe台語，chit本資料siōng齊全！
+
+- [陳修 台灣話大詞典(修訂新版)](http://www.taiouan.com.tw/catalog/product_info.php?products_id=110)
+  - Ta̍k條詞lóng有kah例，有白話字kap漢Lô對應。
