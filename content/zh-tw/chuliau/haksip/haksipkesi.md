@@ -27,7 +27,7 @@ date: 2024-05-03
 
 ### Phah字軟體
 
-請看[Phah字軟體](/chuliau/siataibun/phahjinngthe/)
+請看 [Phah字軟體](/chuliau/siataibun/phahjinngthe/)。
 
 ### 聽寫練習
 

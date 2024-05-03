@@ -1,8 +1,8 @@
 ---
-title: 出版 Chhut-pán
-linkTitle: 出版
+title: 出版冊 Chhut-pán Chheh
+linkTitle: 出版冊
 description: 出版台文冊ê時，有1 kóa軟體ài設定了後chiah thang用。
-weight: 6
+weight: 4
 date: 2024-05-03
 ---
 

@@ -2,7 +2,7 @@
 title: 做影片 Chò Iáⁿ-phìⁿ
 linkTitle: 做影片
 description: 做台文字幕ê時，有1 kóa軟體ài設定了後chiah thang用。
-weight: 5
+weight: 3
 date: 2024-05-03
 ---
 

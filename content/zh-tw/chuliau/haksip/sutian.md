@@ -11,6 +11,7 @@ date: 2024-05-03
 ### 整合
 
 - [ChhoeTaigi 台語辭典⁺](https://chhoe.taigi.info)
+  - 資料siōng完整，語詞siōng chē，功能siōng齊全！
 
 ### 台語信望愛
 

@@ -2,7 +2,7 @@
 title: 設計圖 Siat-kè Tô͘
 linkTitle: 設計圖
 description: 設計台文圖ê時，有1 kóa軟體ài設定了後chiah thang用。
-weight: 4
+weight: 2
 date: 2024-05-03
 ---
 
