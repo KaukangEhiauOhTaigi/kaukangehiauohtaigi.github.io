@@ -6,7 +6,7 @@ title: 狗公會曉學台語
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/kauchai/">
   台語文欲入門，咱請內底坐 <i class="fa-solid fa-door-open ms-2"></i>
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="/docs/">
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="/chuliau/">
   台語文資料 <i class="fa-solid fa-server ms-2" style="color:#333;"></i>
 </a>
 <p class="lead mt-5">Learn How to Learn Taigi in 9 Days!</p>
