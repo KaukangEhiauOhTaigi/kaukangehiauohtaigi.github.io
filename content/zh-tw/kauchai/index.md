@@ -1,5 +1,5 @@
 ---
-title: 狗公會曉學台語 Teach Yourself How to Learn Taigi in 9 Days With Dogs
+title: 狗公會曉學台語 Learn How to Learn Taigi in 9 Days
 linkTitle: 狗公會曉學台語
 menu: {main: {weight: 20}}
 cascade: {type: "about"}
@@ -19,8 +19,6 @@ Learn How to Learn Taigi in 9 Days!
 《狗公會曉學台語》是1本台語文入門教材。
 {.h2 .text-center}
 進前號做《Hê-bí ê台語台文基礎教材》（A Textbook of Basic Taigi Phonics and Writing System By Hê-bí），咧教Taigi orthography，也就是台語正寫法（chèng-siá-hoat）。
-{.h3 .text-center .mt-5}
-＜ 目前當咧改版 ＞
 {.h3 .text-center .mt-5}
 {{% /blocks/section %}}
 
