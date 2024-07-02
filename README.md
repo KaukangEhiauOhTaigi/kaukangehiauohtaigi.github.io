@@ -31,7 +31,7 @@ A simple way to get started is to use this project as a template, which gives yo
 
 3. Select a name for your new project and click **Create repository from template**.
 
-4. Make your own local working copy of your new repo using git clone, replacing https://github.com/me/example.git with your repo’s web URL:
+4. Make your own local working copy of your new repo using git clone, replacing <https://github.com/me/example.git> with your repo’s web URL:
 
 ```bash
 git clone --depth 1 https://github.com/me/example.git
@@ -96,6 +96,7 @@ To remove the produced images run:
 ```bash
 docker-compose rm
 ```
+
 For more information see the [Docker Compose documentation][].
 
 ## Using a local Docsy clone
@@ -172,7 +173,6 @@ Error: failed to download modules: binary with name "go" not found
 
 This error occurs if you have not installed the `go` programming language on your system.
 See this [section](https://www.docsy.dev/docs/get-started/docsy-as-module/installation-prerequisites/#install-go-language) of the user guide for instructions on how to install `go`.
-
 
 [alternate dashboard]: https://app.netlify.com/sites/goldydocs/deploys
 [deploys]: https://app.netlify.com/sites/docsy-example/deploys
