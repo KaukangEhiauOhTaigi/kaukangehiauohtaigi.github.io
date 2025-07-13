@@ -3,7 +3,7 @@ title: 白話字 Pe̍h-ōe-jī
 linkTitle: 白話字
 description: 白話字是頭1 ê台語正寫法（orthography, writing system），台語文獻數量mā siōng chē（the most）。
 weight: 1
-date: 2024-05-02
+date: 2025-07-14
 url: bunhian/pehoeji
 ---
 
@@ -31,7 +31,9 @@ url: bunhian/pehoeji
 
 ## 數位文字資料
 
-- [白話字文獻館 ▸ PE̍H-ŌE-JĪ BÛN-HIÀN KOÁN](https://bunhiankoan.poj.tw/){:target="_blank"}
+- [白話字記憶 ▸ PE̍H-ŌE-JĪ KÌ-EK](https://kiek.poj.tw/){:target="_blank"}
+- [台文Gû--ko](https://guko.taigi.app/){:target="_blank"}
+- [台文通訊](https://taibunthongsin.taigi.info/){:target="_blank"}
 
 ### 台灣文學館
 
@@ -45,9 +47,7 @@ url: bunhian/pehoeji
 
 ### 中央研究院
 
-- [台灣教會公報（1885~1967全白話字版）數位化](https://minhakk{:target="_blank"}a.ling.sinica.edu.tw/bkg/ke-si/khoann-chheh.php)
-  - [全文檢索](http://minhakka.ling.sinica.edu.tw/bkg/choan-bun-kiam-sek.php?gi_gian=hoa){:target="_blank"}
-- [文獻檢索](http://minhakka.ling.sinica.edu.tw/bkg/bkg.php?gi_gian=hoa){:target="_blank"}
+- [辭典與文獻語料庫](https://minhakka2.ling.sinica.edu.tw/){:target="_blank"}
 
 ### 民間
 
