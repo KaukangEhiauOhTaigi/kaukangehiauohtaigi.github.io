@@ -3,7 +3,7 @@ title: 白話字 Pe̍h-ōe-jī
 linkTitle: 白話字
 description: 白話字是頭1 ê台語正寫法（orthography, writing system），台語文獻數量mā siōng chē（the most）。
 weight: 1
-date: 2025-07-14
+date: 2025-07-13
 url: bunhian/pehoeji
 ---
 
