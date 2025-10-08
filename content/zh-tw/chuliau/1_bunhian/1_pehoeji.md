@@ -38,9 +38,9 @@ url: bunhian/pehoeji
 ### 台灣文學館
 
 - [文學館資料庫平台](https://db.nmtl.gov.tw/)
-  - [台語文學發展史資料庫](https://db.nmtl.gov.tw/site3/index)
-    - 台語文學發展年表
-    - 台語作家著作目錄
+  - [台語文學發展史資料庫](https://db.nmtl.gov.tw/site3/intro)
+    - [台語文學發展年表](https://db.nmtl.gov.tw/site3/index)
+    - [台語作家著作目錄](https://db.nmtl.gov.tw/site3/author)
   - [白話字數位典藏博物館](https://db.nmtl.gov.tw/site3/home)（摘白話字文獻，有改寫漢羅版對應。）
   - [台語文數位典藏資料庫](https://db.nmtl.gov.tw/site3/dindex)（摘台語文學作品，有白話字、漢羅2款版本對應）
   - [台灣民間文學歌仔冊資料庫](https://db.nmtl.gov.tw/site4/s5/index)（歌仔冊文獻，有對應白話字。）
@@ -48,6 +48,12 @@ url: bunhian/pehoeji
 ### 中央研究院
 
 - [辭典與文獻語料庫](https://minhakka2.ling.sinica.edu.tw/)
+  - [文獻檢索](https://minhakka2.ling.sinica.edu.tw/min_lit_search_ch/)
+  - [辭典檢索](https://minhakka2.ling.sinica.edu.tw/min_dic_search_ch/)
+
+### 國家文化記憶庫
+
+- [國家文化記憶庫：查「白話字」](https://tcmb.culture.tw/zh-tw/datasearch?keyword=%E7%99%BD%E8%A9%B1%E5%AD%97&limit=12&offset=0&sort=relevance&order=desc&isFuzzyMode=false&query=%7B%7D&viewMode=2)
 
 ### 民間
 
