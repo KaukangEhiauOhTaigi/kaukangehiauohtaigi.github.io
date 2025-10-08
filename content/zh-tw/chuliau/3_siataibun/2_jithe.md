@@ -3,7 +3,7 @@ title: 字體（font）Jī-thé
 linkTitle: 字體（font）
 description: 各種字體 jī-thé（font）、字派 jī-phài（typeface）。
 weight: 2
-date: 2025-10-09
+date: 2025-10-08
 url: siataibun/jithe
 ---
 
