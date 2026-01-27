@@ -10,6 +10,8 @@ url: kauhak/kauhakchugoan
 ## 教具
 
 - [台語貓鬥台語（台語牌仔）](https://tau.taigi.info/)
+  - 台語字母聲調牌仔
+  - 台英雙語點讀生活語詞卡
 - [白話字chū-pang](http://ebook.de-han.org/chupang/)
 
 ## 教材教法

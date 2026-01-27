@@ -11,10 +11,10 @@ url: haksip/gihoat
 
 ## 冊、文獻
 
-- [1934 《台灣語法全 附台灣語助數詞》 陳輝龍](http://ip194097.ntcu.edu.tw/memory/TGB/thak.asp?id=901)
+- [1934 《台灣語法全 附台灣語助數詞》 陳輝龍](https://thak.taigi.info/1934TaioanGihoat/)
   - [台譯版](https://taigi.fhl.net/vcd/rotaiugbk.php?user=taigi&bid=38)
-- [1950 《福建語法序說》 李獻璋](http://ip194097.ntcu.edu.tw/memory/TGB/thak.asp?id=97)
-- [1963 《台湾語講座》王育德](http://www.taiouan.com.tw/catalog/product_info.php?products_id=6204&osCsid=rl62an29tp5f72lu56j95obga3)
+- [1950 《福建語法序說》 李獻璋](https://kiek.taigi.info/1950HokkianGihoatSuSoat/)
+- 1963 《台湾語講座》王育德
   - 第21回 台湾語の文法（I）
   - 第22回 台湾語の文法（II）
   - 第23回 台湾語の文法（III）

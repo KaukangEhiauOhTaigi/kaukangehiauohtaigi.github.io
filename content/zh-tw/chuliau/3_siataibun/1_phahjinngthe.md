@@ -12,10 +12,12 @@ url: siataibun/phahjinngthe
 ### Android系統
 
 - [PhahTaigi 台語輸入法（Android）](http://bit.ly/PhahTaigi-Android)
+- [台語齒盤 - 台語輸入法](https://taigikeyboard.tw/)
 
 ### iOS（Apple）系統
 
 - [PhahTaigi 台語輸入法（iOS）](http://bit.ly/PhahTaigi-iOS)
+- [台語齒盤 - 台語輸入法](https://taigikeyboard.tw/)
 - [Lohankha 台語輸入法](https://lohankha.tw/)
 
 ## 電腦

@@ -11,8 +11,8 @@ url: bunhian/taigibununtongsu
 ## 入門冊、專門冊
 
 - [台灣文學史長編33：舌尖與筆尖──台灣母語文學的發展](https://www.govbooks.com.tw/books/97101)
-- [台語文運動訪談暨史料彙編](http://ip194097.ntcu.edu.tw/memory/TGB/thak.asp?id=321)
-- [台語這條路 - 台文工作者訪談錄](http://ip194097.ntcu.edu.tw/memory/TGB/thak.asp?id=1)
+- [台語文運動訪談暨史料彙編](https://www.govbooks.com.tw/books/69653)
+- [台語這條路 - 台文工作者訪談錄](https://buy.pctpress.org/product/%E5%8F%B0%E8%AA%9E%E9%80%99%E6%A2%9D%E8%B7%AF%E2%94%80%E2%94%80%E5%8F%B0%E6%96%87%E5%B7%A5%E4%BD%9C%E8%80%85%E8%A8%AA%E8%AB%87%E9%8C%84/)
 - [台文通訊30冬紀念特刊](https://www.pinkoi.com/product/y3Jxp5Tx)
 
 ## 文章
@@ -29,7 +29,7 @@ url: bunhian/taigibununtongsu
 - [戰後台語文學運動年表（1976-1992）](https://hdl.handle.net/11296/7amuad)
 - [李江却台語文教基金會kap台灣母語復振運動](https://hdl.handle.net/11296/qs2f3d)
 - [台灣羅馬字協會ê時代意義kap任務](http://www.tlh.org.tw/2015/chuliau/tlh_siaukai.pdf)
-- [Châu-khut‧自覺‧堅心：台語文學推廣之管見](https://www.slideserve.com/lahela/ch-u-khut)
+- Châu-khut‧自覺‧堅心：台語文學推廣之管見
 
 ### 文字
 

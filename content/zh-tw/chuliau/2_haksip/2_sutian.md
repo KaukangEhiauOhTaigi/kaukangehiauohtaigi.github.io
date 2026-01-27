@@ -22,26 +22,31 @@ url: haksip/sutian
 - [台華對應綜合大辭典](https://taigi.fhl.net/dic_un/)
 - [甘字典](https://taigi.fhl.net/dick/)
 
+### 中央研究院
+
+- [中央研究院台客語辭典與文獻語料庫](https://minhakka2.ling.sinica.edu.tw/min_background_ch/)
+  - 台日大辭典
+  - 日台大辭典
+  - 英廈辭典
+  - 廈英大辭典（+增補廈英大辭典）
+
+### 教育部
+
+- [教育部臺灣台語常用詞辭典](https://sutian.moe.edu.tw/und-hani/)
+- [教育部以本土語言標注臺灣地名計畫成果](https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/mhigeonames/twplacename.html)
+- [學科術語臺灣台語/臺灣客語對譯查詢](https://stti.moe.edu.tw/?lang=sutgi)
+
 ### 新詞
 
 - [公視台語台 台語新詞辭庫](https://www.taigitv.org.tw/taigi-words)
-- [公視台語台 選舉台語詞](https://taisuan.taigitv.org.tw/taigi-words)
-- [iTaigi（創新詞）](https://itaigi.tw/)
+- [iTaigi](https://itaigi.tw/)
+  - 創新詞公民平台（無專家決定好bái）
 
 ### 民間
 
 - [Wikipedia（白話字版）](https://zh-min-nan.wikipedia.org/wiki/Pe̍h-ōe-jī)
 - [Wiktionary（白話字版）](https://zh-min-nan.wiktionary.org/wiki/Th%C3%A2u-ia%CC%8Dh)
 - [台字田](https://ji.taioan.org)
-
-### 中研院
-
-- [廈英大辭典/增補廈英大辭典/英廈辭典](https://minhakka.ling.sinica.edu.tw/bkg/chong-su-tian.php?gi_gian=hoa)
-
-### ROC教育部
-
-- [教育部臺灣X語常用詞辭典](https://sutian.moe.edu.tw/und-hani/)
-- [學科術語X客語對譯查詢 (試用版)](https://stti.moe.edu.tw/?lang=sutgi)
 
 ## 手機á
 
@@ -53,13 +58,17 @@ url: haksip/sutian
 
 #### Android系統
 
+- [ChhoeTaigi 台語辭典⁺（網站app）](https://chhoe.taigi.info/app)
+- [芋圓台語字典 Taro Dictionary](https://portaly.cc/taro.dict)
+
 #### iOS系統
 
-- [芋圓台語字典 Taro Dictionary](https://apps.apple.com/tw/app/%E8%8A%8B%E5%9C%93%E5%8F%B0%E8%AA%9E%E5%AD%97%E5%85%B8-taro-dictionary/id6477933002)
+- [ChhoeTaigi 台語辭典⁺（網站app）](https://chhoe.taigi.info/app)
+- [芋圓台語字典 Taro Dictionary](https://portaly.cc/taro.dict)
 
-## 冊
+## 紙冊
 
-- [TJ台語白話小詞典](https://www.pcstore.com.tw/haiang/M19279123.htm)
+- [TJ台語白話小詞典](https://www.atsiu.com/product_246938.html)
   - 推薦你一定ài買chit本！細本好掀koh實用。
   - 特色：
     - 補充《台日大辭典》無ê現代詞，特別是生活chia̍p用ê詞。
@@ -68,8 +77,8 @@ url: haksip/sutian
     - 有khioh口語語音變化，khah好chhōe tio̍h語詞。
     - 語詞lia̍h詞性分拆，照意思解說，簡單m̄ koh真幼路。
 
-- [TJ中台字詞典](https://www.pcstore.com.tw/haiang/M86610079.htm)
+- [TJ中台字詞典](https://www.taiouan.com.tw/zh-TW/product/class1/class1-1/class1-1-3/bjs206)
   - 中國語chhōe台語，chit本資料siōng齊全！
 
-- [陳修 台灣話大詞典(修訂新版)](http://www.taiouan.com.tw/catalog/product_info.php?products_id=110)
+- [陳修 台灣話大詞典(修訂新版)](https://m.ylib.com/book/I2003)
   - Ta̍k條詞lóng有kah例，有白話字kap漢Lô對應。

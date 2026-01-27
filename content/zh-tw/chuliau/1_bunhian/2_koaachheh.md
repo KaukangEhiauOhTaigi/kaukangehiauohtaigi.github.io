@@ -42,7 +42,7 @@ url: bunhian/koaachheh
 
 ### 台灣唸歌集
 
-- [台灣唸歌集（冊）](https://www.nmtl.gov.tw/publicationmore?uid=176&pid=2272)
+- [台灣唸歌集](https://www.govbooks.com.tw/books/125011)
 - 月球唱片 CD
   - ![](/images/koaachheh-goehkiuchhiunnphinn.jpg)
 
@@ -75,7 +75,7 @@ url: bunhian/koaachheh
 ### 文章
 
 - [有關歌仔冊的研究與資訊](https://activityfile.nmtl.gov.tw/nmtldb/files/koaachheh/%E6%9C%89%E9%97%9C%E6%AD%8C%E4%BB%94%E5%86%8A%E7%9A%84%E7%A0%94%E7%A9%B6%E8%88%87%E8%B3%87%E8%A8%8A.pdf)
-- [1963《台湾語講座》王育德](http://www.taiouan.com.tw/catalog/product_info.php?products_id=6204&osCsid=rl62an29tp5f72lu56j95obga3)
+- 1963《台湾語講座》王育德
   - 第17回 歌仔冊の話（1）
   - 第18回 歌仔冊の話（2）
   - 第19回 歌仔冊の話（3）

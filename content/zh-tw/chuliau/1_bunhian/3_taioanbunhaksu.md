@@ -11,7 +11,7 @@ url: bunhian/taioanbunhaksu
 ## 冊
 
 - [台灣文學史長編33：舌尖與筆尖──台灣母語文學的發展](https://www.govbooks.com.tw/books/97101)
-- [台灣文學正名](http://www.taiouan.com.tw/catalog/product_info.php?cPath=40_56&products_id=8135&osCsid=cmf6i8qttalpcqm802e08ltvs0)
+- [台灣文學正名](https://www.sanmin.com.tw/product/index/000464701)
 - 台語文學發展史
   - [台語文學發展年表](https://www.govbooks.com.tw/books/106115)
   - [台語作家著作目錄](https://www.govbooks.com.tw/books/106434)

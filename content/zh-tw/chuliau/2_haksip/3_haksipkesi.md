@@ -28,7 +28,7 @@ url: haksip/haksipkesi
 
 ### Phah字軟體
 
-請看 [Phah字軟體](/chuliau/siataibun/phahjinngthe/)。
+請看 [Phah字軟體](/siataibun/phahjinngthe/)。
 
 ### 聽寫練習
 

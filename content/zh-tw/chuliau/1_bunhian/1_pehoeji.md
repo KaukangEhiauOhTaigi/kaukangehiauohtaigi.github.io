@@ -31,7 +31,7 @@ url: bunhian/pehoeji
 
 ## 數位文字資料
 
-- [白話字記憶 ▸ PE̍H-ŌE-JĪ KÌ-EK](https://kiek.poj.tw/)
+- [白話字博物館 ▸ PE̍H-ŌE-JĪ PHOK-BU̍T-KOÁN](https://phokbutkoan.poj.tw/)
 - [台文Gû--ko](https://guko.taigi.app/)
 - [台文通訊](https://taibunthongsin.taigi.info/)
 
@@ -65,8 +65,8 @@ url: bunhian/pehoeji
 
 ## 入門冊、專門冊
 
-- [探索台語白話字的故事](https://www.nmtl.gov.tw/publicationmore?uid=176&pid=2159)
-- [台語白話字文學選集](https://www.nmtl.gov.tw/publicationmore?uid=176&pid=1844)
+- [探索台語白話字的故事](https://www.govbooks.com.tw/books/111852)
+- [台語白話字文學選集](https://www.govbooks.com.tw/books/84945)
 - [台灣文學ê金璇石──1920年進前台語白話字文學經典文選](https://www.atsiu.com/product_1638424.html)
 
 ## 論文
@@ -76,7 +76,7 @@ url: bunhian/pehoeji
 
 ### 相關組織
 
-- [台灣羅馬字協會](https://tlh.org.tw/tai/)
+- [台灣羅馬字協會](https://www.tlh.org.tw/)
 
 ### 專家學者
 
