@@ -1,0 +1,651 @@
+
+> kaukang-docsy-site@1.0.0 precheck:links
+> npm run build
+
+
+> kaukang-docsy-site@1.0.0 build
+> npm run _build --
+
+
+> kaukang-docsy-site@1.0.0 _build
+> npm run _hugo-dev --
+
+
+> kaukang-docsy-site@1.0.0 _hugo-dev
+> npm run _hugo -- -e dev -DFE
+
+
+> kaukang-docsy-site@1.0.0 _hugo
+> hugo --cleanDestinationDir -e dev -DFE
+
+Start building sites … 
+hugo v0.154.5-a6f99cca223a29cad1d4cdaa6a1a90508ac1da71+extended darwin/arm64 BuildDate=2026-01-11T20:53:23Z VendorInfo=gohugoio
+
+
+                  │ ZH - TW 
+──────────────────┼─────────
+ Pages            │      54 
+ Paginator pages  │       0 
+ Non-page files   │       3 
+ Static files     │      53 
+ Processed images │       6 
+ Aliases          │       2 
+ Cleaned          │       0 
+
+Total in 615 ms
+
+> kaukang-docsy-site@1.0.0 check:links
+> npm run _check:links
+
+
+> kaukang-docsy-site@1.0.0 _check:links
+> linkinator ./public --recurse
+
+→ crawling ./public
+[200] public
+[200] public/favicons/favicon.ico
+[200] public/favicons/apple-touch-icon-180x180.png
+[200] public/favicons/favicon-16x16.png
+[200] public/favicons/favicon-32x32.png
+[200] public/favicons/android-48x48.png
+[200] public/favicons/android-36x36.png
+[200] public/favicons/android-96x96.png
+[200] public/favicons/android-72x72.png
+[200] public/favicons/android-144x144.png
+[200] public/favicons/android-192x192.png
+[200] public/scss/main.css
+[200] public/chapchhe/
+[200] public/kauchai/
+[200] public/chuliau/
+[200] public/bunchiunn/
+[200] public/featured-background_hu_68064fd8d3ec6653.jpg
+[200] public/featured-background_hu_44b4f4a693ef0418.jpg
+[200] public/chapchhe/featured-background_hu_fcae805464457480.jpg
+[200] public/chapchhe/featured-background_hu_49ac81eb3f450db1.jpg
+[200] public/kauchai/featured-background_hu_2b106afaa194810a.jpg
+[200] public/kauchai/featured-background_hu_8e80bf47f8a86e1f.jpg
+[200] public/images/kauchai_logo.jpg
+[200] public/khikoo/
+[200] public/bunhian/
+[200] public/bunhian/pehoeji/
+[200] public/bunhian/koaachheh/
+[200] public/bunhian/taigibununtongsu/
+[200] public/bunhian/kithann/
+[200] public/chuliau/1_bunhian/nipio/
+[200] public/bunhian/taioanbunhaksu/
+[200] public/bunchiunn/kiliok/
+[200] public/images/koaachheh-goehkiuchhiunnphinn.jpg
+[200] https://oh.taigi.info/
+[200] https://oh.taigi.info/index.xml
+[200] https://oh.taigi.info/featured-background.jpg
+[200] public/js/main.js
+[200] public/js/click-to-copy.js
+[200] public/js/tabpane-persist.js
+[200] public/haksip/
+[200] public/haksip/chuhakkauchai/
+[200] public/haksip/sutian/
+[200] public/haksip/haksipkesi/
+[200] public/haksip/chheh/
+[200] public/haksip/gihoat/
+[200] public/haksip/muithe/
+[200] public/siataibun/
+[200] public/siataibun/phahjinngthe/
+[200] public/siataibun/jithe/
+[200] public/siataibun/tauko/
+[200] public/kauhak/
+[200] public/kauhak/kauhakchugoan/
+[200] public/chhutpan/
+[200] public/chhutpan/kisutbunte/
+[200] public/chhutpan/siatketoo/
+[200] public/chhutpan/choiannphinn/
+[200] public/chhutpan/chhutpanchheh/
+[200] public/bunchiunn/kiliok/pengan/
+[200] https://oh.taigi.info/chapchhe/
+[200] https://code.jquery.com/jquery-3.7.1.min.js
+[200] https://oh.taigi.info/chapchhe/featured-background.jpg
+[200] https://oh.taigi.info/kauchai/featured-background.jpg
+[200] https://oh.taigi.info/kauchai/
+[200] https://linktr.ee/taibunexpo
+[200] https://linktr.ee/taibunkesimi
+[200] https://linktr.ee/ngoohebi
+[200] https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hant
+[200] https://oh.taigi.info/tags/%E5%8F%B0%E7%81%A3%E6%96%87%E5%AD%B8%E5%8F%B2/
+[200] https://oh.taigi.info/chuliau/
+[200] https://oh.taigi.info/bunchiunn/
+[200] https://oh.taigi.info/tags/%E5%8F%B0%E8%AA%9E%E6%96%87%E9%81%8B%E5%8B%95%E5%8F%B2/
+[200] https://oh.taigi.info/tags/%E5%8F%B0%E8%AA%9E%E6%96%87%E9%81%8B%E5%8B%95/
+[200] https://oh.taigi.info/tags/%E5%8F%B0%E8%AA%9E%E6%96%87%E5%AD%B8%E5%8F%B2/
+[200] https://oh.taigi.info/khikoo/
+[200] https://oh.taigi.info/tags/%E5%8F%B0%E7%81%A3%E6%96%87%E5%AD%B8/
+[200] https://www.youtube.com/playlist?list=PLxpdI6PlRbFfEgZlts7p-otEABnoKsb1j
+[200] https://www.youtube.com/playlist?list=PLS1s7edHAnhau1ZYuJCDLCZllzNmMqwds
+[200] https://oh.taigi.info/bunhian/
+[200] https://oh.taigi.info/bunhian/pehoeji/
+[200] https://www.youtube.com/playlist?list=PLTSKFutIq9d1YCzD8RgIjpGsR9R34-BLt
+[200] https://www.youtube.com/playlist?list=PLTSKFutIq9d3nfUWJ0LyuTfl6TI5EtT4W
+[200] https://oh.taigi.info/tags/%E5%8F%B0%E8%AA%9E%E6%96%87%E5%AD%B8/
+[200] https://taibunthongsin.taigi.info/
+[200] https://www.youtube.com/playlist?list=PL_G_Ob084WFpe8MtRKj3Aop-i4fvMwlEC
+[200] https://kiek.taigi.info/
+[200] https://thak.taigi.info/
+[200] https://db.nmtl.gov.tw/
+[200] https://www.atsiu.com/product_1638424.html
+[200] https://minhakka2.ling.sinica.edu.tw/min_lit_search_ch/
+[200] https://minhakka2.ling.sinica.edu.tw/min_dic_search_ch/
+[200] https://db.nmtl.gov.tw/site4/s5/index
+[200] https://db.nmtl.gov.tw/site3/index
+[200] https://guko.taigi.app/
+[200] https://db.nmtl.gov.tw/site3/author
+[200] https://www.ntl.edu.tw/public/ntl/4216/%E9%99%B3%E6%85%95%E7%9C%9F%E5%85%A8%E6%96%87.pdf
+[200] https://phokbutkoan.poj.tw/
+[200] https://www.youtube.com/watch?v=90upiYlEOXw&list=PLY6hOIPHm4CT5cv9GbChCt7_ZJLjvwtLq&index=4
+[200] https://www.youtube.com/watch?v=0Azk46Y5IOY&list=PLY6hOIPHm4CQnTCyRnkiugYY-g50fl7ay&index=2
+[200] http://chuliaukhou.blogspot.com/
+[200] https://www.youtube.com/watch?v=I4rVEGpldfw&list=PLY6hOIPHm4CSptdd0lcjtFxQFfIGevU7a&index=2
+[200] https://www.youtube.com/watch?v=6O33PTrWobw&list=PLY6hOIPHm4CQnTCyRnkiugYY-g50fl7ay&index=1
+[200] https://tcmb.culture.tw/zh-tw/datasearch?keyword=%E7%99%BD%E8%A9%B1%E5%AD%97&limit=12&offset=0&sort=relevance&order=desc&isFuzzyMode=false&query=%7B%7D&viewMode=2
+[200] https://www.youtube.com/watch?v=tst7Sv1u-IY&list=PLY6hOIPHm4CSptdd0lcjtFxQFfIGevU7a&index=2
+[200] https://www.youtube.com/watch?v=t32s81A2JOw&list=PLY6hOIPHm4CSptdd0lcjtFxQFfIGevU7a&index=3
+[200] https://db.nmtl.gov.tw/site3/intro
+[200] https://db.nmtl.gov.tw/site4/s5/filelist?mid=3
+[200] https://db.nmtl.gov.tw/site3/home
+[200] https://liamkua.lib.ntu.edu.tw/
+[200] https://oh.taigi.info/bunhian/koaachheh/
+[200] https://www.facebook.com/uibunoffice
+[200] http://www.de-han.org/pehoeji/exhibits/index.htm
+[200] https://activityfile.nmtl.gov.tw/nmtldb/files/koaachheh/%E6%9C%89%E9%97%9C%E6%AD%8C%E4%BB%94%E5%86%8A%E7%9A%84%E7%A0%94%E7%A9%B6%E8%88%87%E8%B3%87%E8%A8%8A.pdf
+[200] https://dl.lib.ntu.edu.tw/s/kua-a-tsheh/page/home
+[200] https://buy.pctpress.org/product/%E5%8F%B0%E8%AA%9E%E9%80%99%E6%A2%9D%E8%B7%AF%E2%94%80%E2%94%80%E5%8F%B0%E6%96%87%E5%B7%A5%E4%BD%9C%E8%80%85%E8%A8%AA%E8%AB%87%E9%8C%84/
+[200] https://oh.taigi.info/bunhian/taigibununtongsu/
+[200] http://www.avanguard.com.tw/m/2001-1609-942140-1.php
+[200] https://www.youtube.com/watch?v=sS5uqqK-3sg&list=PLY6hOIPHm4CT5cv9GbChCt7_ZJLjvwtLq&index=3
+[200] https://www.facebook.com/taiwansmile
+[200] https://www.youtube.com/watch?v=zm2ayn3d8EI
+[200] https://www.youtube.com/watch?v=uK5E9fhOxN8&list=PLY6hOIPHm4CT5cv9GbChCt7_ZJLjvwtLq&index=2
+[200] https://www.youtube.com/watch?v=k6WdRj_gbQs&list=PLY6hOIPHm4CT5cv9GbChCt7_ZJLjvwtLq&index=1
+[200] https://www.wunan.com.tw/bookdetail?NO=16783
+[200] https://www.facebook.com/groups/247421081991458/
+[200] https://www.facebook.com/tenghongtin
+[200] https://www.facebook.com/tingtshun.siau
+[200] https://www.facebook.com/peingsh
+[200] https://www.facebook.com/jukhai.lim
+[200] https://www.facebook.com/apang.taioan
+[200] https://www.govbooks.com.tw/books/84945
+[200] https://www.govbooks.com.tw/books/111852
+[200] https://www.facebook.com/kooiliamkoathoan
+[200] https://www.govbooks.com.tw/books/125011
+[200] http://www.twlls.org.tw/Attachment/Journal/12.2-5.pdf
+[200] https://orcd.co/singapoemabouttaiwan
+[200] https://www.sanmin.com.tw/product/index/001616455
+[200] https://taigi.fhl.net/vcd/rotaiugbk.php?user=taigi&proc=attach&bid=31&file=M.1610381015.A.1.pdf&subj=%e5%b7%a5%e6%ac%b2%e5%96%84%e5%85%b6%e4%ba%8b_%e5%bf%85%e5%85%88%e5%88%a9%e5%85%b6%e5%99%a8%e2%80%94%e8%ab%87%e5%8f%b0%e8%aa%9e%e6%96%87%e8%bc%b8%e5%85%a5%e6%b3%95by%e6%9e%97%e4%bf%8a%e8%82%b2.%e6%bd%98%e7%82%ba%e6%ac%a31&msgno=13
+[200] https://www.govbooks.com.tw/books/97101
+[200] https://www.govbooks.com.tw/books/69653
+[200] https://www.pinkoi.com/product/y3Jxp5Tx
+[200] https://taigi.fhl.net/dict/
+[200] https://taigi.fhl.net/dic_un/
+[200] https://taigi.fhl.net/dick/
+[200] https://www.sanmin.com.tw/product/index/000464701
+[200] https://oh.taigi.info/chuliau/1_bunhian/nipio/
+[200] https://oh.taigi.info/haksip/
+[200] https://chhoe.taigi.info/
+[200] https://oh.taigi.info/haksip/chuhakkauchai/
+[200] https://oh.taigi.info/bunchiunn/kiliok/
+[200] https://minhakka2.ling.sinica.edu.tw/min_background_ch/
+[200] https://oh.taigi.info/bunhian/kithann/
+[200] https://www.facebook.com/notes/730890937639495/
+[200] https://oh.taigi.info/bunhian/taioanbunhaksu/
+[200] https://oh.taigi.info/haksip/sutian/
+[200] http://www2.twl.ncku.edu.tw/~uibun/conf/2006taigi/githeng/papers/Chhoa-UiHun.pdf
+[200] http://ebook.de-han.org/524/index.htm
+[200] https://tpl.ncl.edu.tw/NclService/JournalContentDetail?SysId=A11011115
+[200] https://itaigi.tw/
+[200] https://tai2.ntu.edu.tw/search/1%3E
+[200] https://db.nmtl.gov.tw/site3/dindex
+[200] https://www.tlh.org.tw/
+[200] https://www.govbooks.com.tw/books/106434
+[200] https://www.atsiu.com/product_246938.html
+[200] https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/mhigeonames/twplacename.html
+[200] https://m.ylib.com/book/I2003
+[200] https://www.govbooks.com.tw/books/106115
+[200] https://chhoe.taigi.info/app
+[200] https://ji.taioan.org/
+[200] https://zh-min-nan.wikipedia.org/wiki/Pe%CC%8Dh-%C5%8De-j%C4%AB
+[200] https://zh-min-nan.wiktionary.org/wiki/Th%C3%A2u-ia%CC%8Dh
+[200] https://oh.taigi.info/haksip/haksipkesi/
+[200] https://stti.moe.edu.tw/?lang=sutgi
+[200] https://www.taigitv.org.tw/taigi-words
+[200] https://linktr.ee/TSTGCP
+[200] https://miau715.github.io/POJTest/
+[200] https://www.taiouan.com.tw/zh-TW/product/class1/class1-1/class1-1-3/bjs206
+[200] https://oh.taigi.info/haksip/chheh/
+[200] https://taigi.fhl.net/vcd/rotaiugbk.php?user=taigi&bid=38
+[200] https://kiek.taigi.info/1950HokkianGihoatSuSoat/
+[200] https://www.gjtaiwan.com/new/?product=%e6%8b%8b%e8%8d%92%e7%9a%84%e6%95%85%e4%ba%8b-%e5%85%a8%e5%a5%97%e6%9b%b8%e5%85%b16%e8%bc%af
+[200] https://oh.taigi.info/haksip/gihoat/
+[200] https://www.sanmin.com.tw/product/index/001548561
+[200] https://taiwanebook.ncl.edu.tw/zh-tw/book/NCL-001218658/reader
+[200] http://www.avanguard.com.tw/m/2001-1609-960574,c17011-1.php
+[200] https://portaly.cc/taro.dict
+[200] https://www.sanmin.com.tw/product/index/006732116
+[200] https://www.sanmin.com.tw/product/index/006732118
+[200] https://twnelclub.ning.com/profiles/blogs/70
+[200] https://thak.taigi.info/1934TaioanGihoat/
+[200] https://www.randomlists.com/list-randomizer?dup=false&qty=6&items=a%0Ai%0Au%0Ao%CD%98%0Ae%0Ao
+[200] https://www.randomlists.com/list-randomizer?dup=false&qty=11&items=ai%0Aau%0Aia%0Aiu%0Aio%0Aio%CD%98%0Aiau%0Aui%0Aoa%0Aoe%0Aoai
+[200] https://www.randomlists.com/list-randomizer?dup=false&qty=13&items=a%E2%81%BF%0Ai%E2%81%BF%0Ao%E2%81%BF%0Ae%E2%81%BF%0Aai%E2%81%BF%0Aau%E2%81%BF%0Aia%E2%81%BF%0Aiu%E2%81%BF%0Aiau%E2%81%BF%0Aui%E2%81%BF%0Aoa%E2%81%BF%0Aoai%E2%81%BF
+[200] https://www.randomlists.com/list-randomizer?dup=false&qty=17&items=p%0Aph%0Am%0Ab%0At%0Ath%0An%0Al%0Ak%0Akh%0Ang%0Ag%0Ah%0Ach%0Achh%0As%0Aj
+[200] https://www.randomlists.com/list-randomizer?dup=false&qty=21&items=ap%0Aat%0Aak%0Aah%0Aip%0Ait%0Aih%0Aiap%0Aiak%0Aiok%0Aut%0Auh%0Aop%0Aok%0Ao%CD%98h%0Aoat%0Aoak%0Aeh%0Aoh%0Aiat%0Aek
+[200] https://www.randomlists.com/list-randomizer?dup=false&qty=15&items=am%0Aan%0Aang%0Aim%0Ain%0Aiam%0Aiang%0Aiong%0Aun%0Aom%0Aong%0Aoan%0Aoang%0Aian%0Aeng
+[200] https://baconpress.waca.ec/product/detail/1180072/TWneseGrammar
+[200] https://swordlion.cyberbiz.co/products/m08706898
+[200] https://taigi.fhl.net/TaigiIME/
+[200] https://oh.taigi.info/siataibun/
+[200] https://oh.taigi.info/haksip/muithe/
+[200] https://taigikeyboard.tw/
+[200] https://oh.taigi.info/siataibun/phahjinngthe/
+[200] https://swordlion.cyberbiz.co/products/m08706885
+[200] https://www.pinkoi.com/product/CMjQ96Eg
+[200] https://swordlion.cyberbiz.co/search?q=%E9%99%B3%E9%9B%B7%E7%9F%AD%E7%AF%87%E5%B0%8F%E8%AA%AA%E9%9B%86
+[200] https://fonts.google.com/specimen/TASA+Orbiter
+[200] https://oh.taigi.info/siataibun/jithe/
+[200] https://fonts.google.com/specimen/TASA+Explorer
+[200] https://drive.google.com/file/d/1HV7vwgSnvz1I0b_ep0Sh2aSsdLDY271K/view?usp=sharing
+[200] https://www.chiayi.gov.tw/download/logo/ChiayiCityFont.zip
+[200] https://pen.de-han.org/taioanji/
+[200] https://www.chiayi.gov.tw/News_Content.aspx?n=8407&s=641274
+[200] https://swordlion.cyberbiz.co/products/m08795910
+[200] https://justfont.com/burnfont/
+[200] https://justfont.com/jinxuan-latte/
+[200] https://justfont.com/jinxuan/
+[200] https://justfont.com/huninn/
+[200] https://justfont.com/lanyangming/
+[200] https://justfont.com/twroadfont/
+[200] https://justfont.com/kamabit/
+[200] https://justfont.com/creamfont/
+[200] https://justfont.com/bunguan/
+[200] https://justfont.com/kolliko/
+[200] https://justfont.com/loksin/
+[200] https://justfont.com/tearsfont/
+[200] https://justfont.com/justinbeaverfont/
+[200] https://fonts.google.com/specimen/Iansui
+[200] https://fonts.google.com/specimen/Huninn
+[200] https://sutian.moe.edu.tw/und-hani/
+[0] https://lohankha.tw/
+[200] https://www.nmtl.gov.tw/News_Content_Book.aspx?n=3852&s=139111
+[200] https://www.sanmin.com.tw/Product/index/005909250
+[200] https://www.nmtl.gov.tw/News_Content_Book.aspx?n=3852&s=138739
+[200] http://taigi.fhl.net/vcd/rotaiugbk.php?user=taigi&bid=3&proc=read&msgno=54&
+[200] https://gpi.culture.tw/books/1011101618
+[200] https://gpi.culture.tw/books/1010901816
+[200] https://www.sanmin.com.tw/Product/index/001472875
+[200] https://gpi.culture.tw/books/1011001827
+[200] https://oh.taigi.info/kauhak/
+[200] https://gpi.culture.tw/books/1011201577
+[200] https://oh.taigi.info/siataibun/tauko/
+[200] https://www.sanmin.com.tw/Product/index/000106295
+[200] https://oh.taigi.info/chhutpan/choiannphinn/
+[200] https://oh.taigi.info/chhutpan/kisutbunte/
+[200] https://twl.ncku.edu.tw/p/404-1143-236207.php?Lang=zh-tw
+[200] https://oh.taigi.info/chhutpan/
+[200] https://oh.taigi.info/bunchiunn/kiliok/pengan/
+[200] https://oh.taigi.info/chhutpan/siatketoo/
+[200] https://oh.taigi.info/chhutpan/chhutpanchheh/
+[200] https://tau.taigi.info/
+[200] https://oh.taigi.info/kauhak/kauhakchugoan/
+[200] https://sanmin.com.tw/Product/index/000093941
+[200] https://tpl.ncl.edu.tw/NclService/JournalContentDetail?SysId=A16021514
+[200] https://www.facebook.com/profile.php?id=100083485653343
+[200] http://bit.ly/PhahTaigi-Android
+[200] https://minhakka2.ling.sinica.edu.tw/
+[200] https://www.facebook.com/profile.php?id=100084202253814
+[200] https://www.facebook.com/watch/?v=951714548331697
+[200] http://ebook.de-han.org/chupang/
+[200] https://www.wunan.com.tw/bookdetail?NO=16142
+[200] https://khi.taigi.info/kaukang20250714
+[200] https://github.com/ButTaiwan/LessonOne
+[200] http://www.tlh.org.tw/2015/chuliau/tlh_siaukai.pdf
+[200] https://tauhu.tw/
+[200] https://software.sil.org/doulos/
+[200] https://github.com/ButTaiwan/genyog-font
+[200] https://www.amazon.com/Taiwanese-Grammar-Reference-Philip-Lin/dp/0996398201
+[200] https://github.com/aiongg/POJFonts
+[200] https://store.justfont.com/font/meiyifont
+[200] https://github.com/ButTaiwan/genryu-font
+[200] https://store.justfont.com/font/amafont
+[200] https://github.com/ButTaiwan/iansui
+[200] https://github.com/ButTaiwan/genwan-font
+[200] https://github.com/ichitenfont/I.Ming
+[200] http://www.smcbook.com.tw/smc/index.php?route=product/product&product_id=452
+[200] http://bit.ly/PhahTaigi-iOS
+[200] https://github.com/localremotetw/TASA-Typeface-Collection
+[200] https://taiwan.kinokuniya.com/bw/9784560088395
+[200] https://github.com/ButTaiwan/genyo-font
+[200] https://taiwan.kinokuniya.com/bw/9784756917942
+[200] https://github.com/ButTaiwan/gensen-font
+[521] https://tlh.org.tw/tai/hoesin/hoesin_19
+[200] https://github.com/ButTaiwan/genseki-font
+[200] https://hdl.handle.net/11296/qs2f3d
+[200] https://hdl.handle.net/11296/at825t
+[200] https://hdl.handle.net/11296/7amuad
+[200] https://hdl.handle.net/11296/4upqv2
+
+  [200] public
+public
+  [200] public/favicons/favicon.ico
+  [200] public/favicons/apple-touch-icon-180x180.png
+  [200] public/favicons/favicon-16x16.png
+  [200] public/favicons/favicon-32x32.png
+  [200] public/favicons/android-48x48.png
+  [200] public/favicons/android-36x36.png
+  [200] public/favicons/android-96x96.png
+  [200] public/favicons/android-72x72.png
+  [200] public/favicons/android-144x144.png
+  [200] public/favicons/android-192x192.png
+  [200] public/scss/main.css
+  [200] public/chapchhe/
+  [200] public/kauchai/
+  [200] public/chuliau/
+  [200] public/bunchiunn/
+  [200] public/featured-background_hu_68064fd8d3ec6653.jpg
+  [200] public/featured-background_hu_44b4f4a693ef0418.jpg
+  [200] https://oh.taigi.info/
+  [200] https://oh.taigi.info/index.xml
+  [200] https://oh.taigi.info/featured-background.jpg
+  [200] public/js/main.js
+  [200] public/js/click-to-copy.js
+  [200] public/js/tabpane-persist.js
+  [200] https://code.jquery.com/jquery-3.7.1.min.js
+  [200] https://linktr.ee/ngoohebi
+public/chapchhe/
+  [200] public/chapchhe/featured-background_hu_fcae805464457480.jpg
+  [200] public/chapchhe/featured-background_hu_49ac81eb3f450db1.jpg
+  [200] https://oh.taigi.info/chapchhe/
+  [200] https://oh.taigi.info/chapchhe/featured-background.jpg
+  [200] https://linktr.ee/taibunexpo
+  [200] https://linktr.ee/taibunkesimi
+public/kauchai/
+  [200] public/kauchai/featured-background_hu_2b106afaa194810a.jpg
+  [200] public/kauchai/featured-background_hu_8e80bf47f8a86e1f.jpg
+  [200] public/images/kauchai_logo.jpg
+  [200] https://oh.taigi.info/kauchai/featured-background.jpg
+  [200] https://oh.taigi.info/kauchai/
+  [200] https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hant
+  [200] https://khi.taigi.info/kaukang20250714
+public/chuliau/
+  [200] public/khikoo/
+  [200] public/bunhian/
+  [200] public/bunhian/pehoeji/
+  [200] public/bunhian/koaachheh/
+  [200] public/bunhian/taigibununtongsu/
+  [200] public/bunhian/kithann/
+  [200] public/chuliau/1_bunhian/nipio/
+  [200] public/bunhian/taioanbunhaksu/
+  [200] public/haksip/
+  [200] public/haksip/chuhakkauchai/
+  [200] public/haksip/sutian/
+  [200] public/haksip/haksipkesi/
+  [200] public/haksip/chheh/
+  [200] public/haksip/gihoat/
+  [200] public/haksip/muithe/
+  [200] public/siataibun/
+  [200] public/siataibun/phahjinngthe/
+  [200] public/siataibun/jithe/
+  [200] public/siataibun/tauko/
+  [200] public/kauhak/
+  [200] public/kauhak/kauhakchugoan/
+  [200] public/chhutpan/
+  [200] public/chhutpan/kisutbunte/
+  [200] public/chhutpan/siatketoo/
+  [200] public/chhutpan/choiannphinn/
+  [200] public/chhutpan/chhutpanchheh/
+  [200] https://oh.taigi.info/tags/%E5%8F%B0%E7%81%A3%E6%96%87%E5%AD%B8%E5%8F%B2/
+  [200] https://oh.taigi.info/chuliau/
+  [200] https://oh.taigi.info/tags/%E5%8F%B0%E8%AA%9E%E6%96%87%E9%81%8B%E5%8B%95%E5%8F%B2/
+  [200] https://oh.taigi.info/tags/%E5%8F%B0%E8%AA%9E%E6%96%87%E9%81%8B%E5%8B%95/
+  [200] https://oh.taigi.info/tags/%E5%8F%B0%E8%AA%9E%E6%96%87%E5%AD%B8%E5%8F%B2/
+  [200] https://oh.taigi.info/tags/%E5%8F%B0%E7%81%A3%E6%96%87%E5%AD%B8/
+  [200] https://oh.taigi.info/tags/%E5%8F%B0%E8%AA%9E%E6%96%87%E5%AD%B8/
+public/bunchiunn/
+  [200] public/bunchiunn/kiliok/
+  [200] public/bunchiunn/kiliok/pengan/
+  [200] https://oh.taigi.info/bunchiunn/
+public/bunhian/koaachheh/
+  [200] public/images/koaachheh-goehkiuchhiunnphinn.jpg
+  [200] https://db.nmtl.gov.tw/site4/s5/filelist?mid=3
+  [200] https://liamkua.lib.ntu.edu.tw/
+  [200] https://oh.taigi.info/bunhian/koaachheh/
+  [200] https://activityfile.nmtl.gov.tw/nmtldb/files/koaachheh/%E6%9C%89%E9%97%9C%E6%AD%8C%E4%BB%94%E5%86%8A%E7%9A%84%E7%A0%94%E7%A9%B6%E8%88%87%E8%B3%87%E8%A8%8A.pdf
+  [200] https://dl.lib.ntu.edu.tw/s/kua-a-tsheh/page/home
+  [200] http://www.avanguard.com.tw/m/2001-1609-942140-1.php
+  [200] https://www.youtube.com/watch?v=sS5uqqK-3sg&list=PLY6hOIPHm4CT5cv9GbChCt7_ZJLjvwtLq&index=3
+  [200] https://www.facebook.com/taiwansmile
+  [200] https://www.youtube.com/watch?v=zm2ayn3d8EI
+  [200] https://www.youtube.com/watch?v=uK5E9fhOxN8&list=PLY6hOIPHm4CT5cv9GbChCt7_ZJLjvwtLq&index=2
+  [200] https://www.youtube.com/watch?v=k6WdRj_gbQs&list=PLY6hOIPHm4CT5cv9GbChCt7_ZJLjvwtLq&index=1
+  [200] https://www.wunan.com.tw/bookdetail?NO=16783
+  [200] https://www.facebook.com/groups/247421081991458/
+  [200] https://www.facebook.com/tenghongtin
+  [200] https://www.facebook.com/tingtshun.siau
+  [200] https://www.facebook.com/peingsh
+  [200] https://www.facebook.com/jukhai.lim
+  [200] https://www.facebook.com/apang.taioan
+  [200] https://www.facebook.com/kooiliamkoathoan
+  [200] https://www.govbooks.com.tw/books/125011
+  [200] https://orcd.co/singapoemabouttaiwan
+  [200] https://www.nmtl.gov.tw/News_Content_Book.aspx?n=3852&s=139111
+  [200] https://www.nmtl.gov.tw/News_Content_Book.aspx?n=3852&s=138739
+  [200] https://gpi.culture.tw/books/1011101618
+  [200] https://gpi.culture.tw/books/1010901816
+  [200] https://gpi.culture.tw/books/1011001827
+  [200] https://gpi.culture.tw/books/1011201577
+  [200] https://www.facebook.com/profile.php?id=100083485653343
+  [200] https://www.facebook.com/profile.php?id=100084202253814
+  [200] https://www.facebook.com/watch/?v=951714548331697
+public/khikoo/
+  [200] https://oh.taigi.info/khikoo/
+public/bunhian/pehoeji/
+  [200] https://www.youtube.com/playlist?list=PLxpdI6PlRbFfEgZlts7p-otEABnoKsb1j
+  [200] https://www.youtube.com/playlist?list=PLS1s7edHAnhau1ZYuJCDLCZllzNmMqwds
+  [200] https://oh.taigi.info/bunhian/pehoeji/
+  [200] https://www.youtube.com/playlist?list=PLTSKFutIq9d1YCzD8RgIjpGsR9R34-BLt
+  [200] https://www.youtube.com/playlist?list=PLTSKFutIq9d3nfUWJ0LyuTfl6TI5EtT4W
+  [200] https://taibunthongsin.taigi.info/
+  [200] https://www.youtube.com/playlist?list=PL_G_Ob084WFpe8MtRKj3Aop-i4fvMwlEC
+  [200] https://kiek.taigi.info/
+  [200] https://thak.taigi.info/
+  [200] https://db.nmtl.gov.tw/
+  [200] https://www.atsiu.com/product_1638424.html
+  [200] https://minhakka2.ling.sinica.edu.tw/min_lit_search_ch/
+  [200] https://minhakka2.ling.sinica.edu.tw/min_dic_search_ch/
+  [200] https://db.nmtl.gov.tw/site4/s5/index
+  [200] https://db.nmtl.gov.tw/site3/index
+  [200] https://guko.taigi.app/
+  [200] https://db.nmtl.gov.tw/site3/author
+  [200] https://www.ntl.edu.tw/public/ntl/4216/%E9%99%B3%E6%85%95%E7%9C%9F%E5%85%A8%E6%96%87.pdf
+  [200] https://phokbutkoan.poj.tw/
+  [200] https://www.youtube.com/watch?v=90upiYlEOXw&list=PLY6hOIPHm4CT5cv9GbChCt7_ZJLjvwtLq&index=4
+  [200] https://www.youtube.com/watch?v=0Azk46Y5IOY&list=PLY6hOIPHm4CQnTCyRnkiugYY-g50fl7ay&index=2
+  [200] http://chuliaukhou.blogspot.com/
+  [200] https://www.youtube.com/watch?v=I4rVEGpldfw&list=PLY6hOIPHm4CSptdd0lcjtFxQFfIGevU7a&index=2
+  [200] https://www.youtube.com/watch?v=6O33PTrWobw&list=PLY6hOIPHm4CQnTCyRnkiugYY-g50fl7ay&index=1
+  [200] https://tcmb.culture.tw/zh-tw/datasearch?keyword=%E7%99%BD%E8%A9%B1%E5%AD%97&limit=12&offset=0&sort=relevance&order=desc&isFuzzyMode=false&query=%7B%7D&viewMode=2
+  [200] https://www.youtube.com/watch?v=tst7Sv1u-IY&list=PLY6hOIPHm4CSptdd0lcjtFxQFfIGevU7a&index=2
+  [200] https://www.youtube.com/watch?v=t32s81A2JOw&list=PLY6hOIPHm4CSptdd0lcjtFxQFfIGevU7a&index=3
+  [200] https://db.nmtl.gov.tw/site3/intro
+  [200] https://db.nmtl.gov.tw/site3/home
+  [200] https://www.facebook.com/uibunoffice
+  [200] http://www.de-han.org/pehoeji/exhibits/index.htm
+  [200] https://www.govbooks.com.tw/books/84945
+  [200] https://www.govbooks.com.tw/books/111852
+  [200] https://db.nmtl.gov.tw/site3/dindex
+  [200] https://www.tlh.org.tw/
+  [200] https://www.sanmin.com.tw/Product/index/001472875
+  [200] https://twl.ncku.edu.tw/p/404-1143-236207.php?Lang=zh-tw
+  [200] https://minhakka2.ling.sinica.edu.tw/
+public/bunhian/
+  [200] https://oh.taigi.info/bunhian/
+public/bunhian/taigibununtongsu/
+  [200] https://buy.pctpress.org/product/%E5%8F%B0%E8%AA%9E%E9%80%99%E6%A2%9D%E8%B7%AF%E2%94%80%E2%94%80%E5%8F%B0%E6%96%87%E5%B7%A5%E4%BD%9C%E8%80%85%E8%A8%AA%E8%AB%87%E9%8C%84/
+  [200] https://oh.taigi.info/bunhian/taigibununtongsu/
+  [200] http://www.twlls.org.tw/Attachment/Journal/12.2-5.pdf
+  [200] https://www.sanmin.com.tw/product/index/001616455
+  [200] https://taigi.fhl.net/vcd/rotaiugbk.php?user=taigi&proc=attach&bid=31&file=M.1610381015.A.1.pdf&subj=%e5%b7%a5%e6%ac%b2%e5%96%84%e5%85%b6%e4%ba%8b_%e5%bf%85%e5%85%88%e5%88%a9%e5%85%b6%e5%99%a8%e2%80%94%e8%ab%87%e5%8f%b0%e8%aa%9e%e6%96%87%e8%bc%b8%e5%85%a5%e6%b3%95by%e6%9e%97%e4%bf%8a%e8%82%b2.%e6%bd%98%e7%82%ba%e6%ac%a31&msgno=13
+  [200] https://www.govbooks.com.tw/books/97101
+  [200] https://www.govbooks.com.tw/books/69653
+  [200] https://www.pinkoi.com/product/y3Jxp5Tx
+  [200] https://www.facebook.com/notes/730890937639495/
+  [200] http://www2.twl.ncku.edu.tw/~uibun/conf/2006taigi/githeng/papers/Chhoa-UiHun.pdf
+  [200] http://ebook.de-han.org/524/index.htm
+  [200] https://tpl.ncl.edu.tw/NclService/JournalContentDetail?SysId=A11011115
+  [200] https://twnelclub.ning.com/profiles/blogs/70
+  [200] http://taigi.fhl.net/vcd/rotaiugbk.php?user=taigi&bid=3&proc=read&msgno=54&
+  [200] http://www.tlh.org.tw/2015/chuliau/tlh_siaukai.pdf
+  [200] https://hdl.handle.net/11296/qs2f3d
+  [200] https://hdl.handle.net/11296/7amuad
+public/haksip/sutian/
+  [200] https://taigi.fhl.net/dict/
+  [200] https://taigi.fhl.net/dic_un/
+  [200] https://taigi.fhl.net/dick/
+  [200] https://chhoe.taigi.info/
+  [200] https://minhakka2.ling.sinica.edu.tw/min_background_ch/
+  [200] https://oh.taigi.info/haksip/sutian/
+  [200] https://itaigi.tw/
+  [200] https://www.atsiu.com/product_246938.html
+  [200] https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/mhigeonames/twplacename.html
+  [200] https://m.ylib.com/book/I2003
+  [200] https://chhoe.taigi.info/app
+  [200] https://ji.taioan.org/
+  [200] https://zh-min-nan.wikipedia.org/wiki/Pe%CC%8Dh-%C5%8De-j%C4%AB
+  [200] https://zh-min-nan.wiktionary.org/wiki/Th%C3%A2u-ia%CC%8Dh
+  [200] https://stti.moe.edu.tw/?lang=sutgi
+  [200] https://www.taigitv.org.tw/taigi-words
+  [200] https://www.taiouan.com.tw/zh-TW/product/class1/class1-1/class1-1-3/bjs206
+  [200] https://portaly.cc/taro.dict
+  [200] https://sutian.moe.edu.tw/und-hani/
+public/bunhian/taioanbunhaksu/
+  [200] https://www.sanmin.com.tw/product/index/000464701
+  [200] https://oh.taigi.info/bunhian/taioanbunhaksu/
+  [200] https://www.govbooks.com.tw/books/106434
+  [200] https://www.govbooks.com.tw/books/106115
+public/chuliau/1_bunhian/nipio/
+  [200] https://oh.taigi.info/chuliau/1_bunhian/nipio/
+public/haksip/
+  [200] https://oh.taigi.info/haksip/
+public/haksip/chuhakkauchai/
+  [200] https://oh.taigi.info/haksip/chuhakkauchai/
+public/bunchiunn/kiliok/
+  [200] https://oh.taigi.info/bunchiunn/kiliok/
+public/bunhian/kithann/
+  [200] https://oh.taigi.info/bunhian/kithann/
+  [200] https://tai2.ntu.edu.tw/search/1%3E
+public/haksip/haksipkesi/
+  [200] https://oh.taigi.info/haksip/haksipkesi/
+  [200] https://linktr.ee/TSTGCP
+  [200] https://miau715.github.io/POJTest/
+  [200] https://www.randomlists.com/list-randomizer?dup=false&qty=6&items=a%0Ai%0Au%0Ao%CD%98%0Ae%0Ao
+  [200] https://www.randomlists.com/list-randomizer?dup=false&qty=11&items=ai%0Aau%0Aia%0Aiu%0Aio%0Aio%CD%98%0Aiau%0Aui%0Aoa%0Aoe%0Aoai
+  [200] https://www.randomlists.com/list-randomizer?dup=false&qty=13&items=a%E2%81%BF%0Ai%E2%81%BF%0Ao%E2%81%BF%0Ae%E2%81%BF%0Aai%E2%81%BF%0Aau%E2%81%BF%0Aia%E2%81%BF%0Aiu%E2%81%BF%0Aiau%E2%81%BF%0Aui%E2%81%BF%0Aoa%E2%81%BF%0Aoai%E2%81%BF
+  [200] https://www.randomlists.com/list-randomizer?dup=false&qty=17&items=p%0Aph%0Am%0Ab%0At%0Ath%0An%0Al%0Ak%0Akh%0Ang%0Ag%0Ah%0Ach%0Achh%0As%0Aj
+  [200] https://www.randomlists.com/list-randomizer?dup=false&qty=21&items=ap%0Aat%0Aak%0Aah%0Aip%0Ait%0Aih%0Aiap%0Aiak%0Aiok%0Aut%0Auh%0Aop%0Aok%0Ao%CD%98h%0Aoat%0Aoak%0Aeh%0Aoh%0Aiat%0Aek
+  [200] https://www.randomlists.com/list-randomizer?dup=false&qty=15&items=am%0Aan%0Aang%0Aim%0Ain%0Aiam%0Aiang%0Aiong%0Aun%0Aom%0Aong%0Aoan%0Aoang%0Aian%0Aeng
+public/haksip/chheh/
+  [200] https://oh.taigi.info/haksip/chheh/
+  [200] https://www.gjtaiwan.com/new/?product=%e6%8b%8b%e8%8d%92%e7%9a%84%e6%95%85%e4%ba%8b-%e5%85%a8%e5%a5%97%e6%9b%b8%e5%85%b16%e8%bc%af
+  [200] http://www.avanguard.com.tw/m/2001-1609-960574,c17011-1.php
+  [200] https://swordlion.cyberbiz.co/products/m08706898
+  [200] https://swordlion.cyberbiz.co/products/m08706885
+  [200] https://www.pinkoi.com/product/CMjQ96Eg
+  [200] https://swordlion.cyberbiz.co/search?q=%E9%99%B3%E9%9B%B7%E7%9F%AD%E7%AF%87%E5%B0%8F%E8%AA%AA%E9%9B%86
+  [200] https://pen.de-han.org/taioanji/
+  [200] https://swordlion.cyberbiz.co/products/m08795910
+public/haksip/gihoat/
+  [200] https://taigi.fhl.net/vcd/rotaiugbk.php?user=taigi&bid=38
+  [200] https://kiek.taigi.info/1950HokkianGihoatSuSoat/
+  [200] https://oh.taigi.info/haksip/gihoat/
+  [200] https://www.sanmin.com.tw/product/index/001548561
+  [200] https://taiwanebook.ncl.edu.tw/zh-tw/book/NCL-001218658/reader
+  [200] https://www.sanmin.com.tw/product/index/006732116
+  [200] https://www.sanmin.com.tw/product/index/006732118
+  [200] https://thak.taigi.info/1934TaioanGihoat/
+  [200] https://baconpress.waca.ec/product/detail/1180072/TWneseGrammar
+  [200] https://drive.google.com/file/d/1HV7vwgSnvz1I0b_ep0Sh2aSsdLDY271K/view?usp=sharing
+  [200] https://www.sanmin.com.tw/Product/index/005909250
+  [200] https://www.sanmin.com.tw/Product/index/000106295
+  [200] https://sanmin.com.tw/Product/index/000093941
+  [200] https://tpl.ncl.edu.tw/NclService/JournalContentDetail?SysId=A16021514
+  [200] https://www.amazon.com/Taiwanese-Grammar-Reference-Philip-Lin/dp/0996398201
+  [200] http://www.smcbook.com.tw/smc/index.php?route=product/product&product_id=452
+  [200] https://taiwan.kinokuniya.com/bw/9784560088395
+  [200] https://taiwan.kinokuniya.com/bw/9784756917942
+  [200] https://hdl.handle.net/11296/at825t
+  [200] https://hdl.handle.net/11296/4upqv2
+public/siataibun/phahjinngthe/
+  [200] https://taigi.fhl.net/TaigiIME/
+  [200] https://taigikeyboard.tw/
+  [200] https://oh.taigi.info/siataibun/phahjinngthe/
+  [0] https://lohankha.tw/
+  [200] http://bit.ly/PhahTaigi-Android
+  [200] http://bit.ly/PhahTaigi-iOS
+public/siataibun/
+  [200] https://oh.taigi.info/siataibun/
+public/haksip/muithe/
+  [200] https://oh.taigi.info/haksip/muithe/
+public/siataibun/jithe/
+  [200] https://fonts.google.com/specimen/TASA+Orbiter
+  [200] https://oh.taigi.info/siataibun/jithe/
+  [200] https://fonts.google.com/specimen/TASA+Explorer
+  [200] https://www.chiayi.gov.tw/download/logo/ChiayiCityFont.zip
+  [200] https://www.chiayi.gov.tw/News_Content.aspx?n=8407&s=641274
+  [200] https://justfont.com/burnfont/
+  [200] https://justfont.com/jinxuan-latte/
+  [200] https://justfont.com/jinxuan/
+  [200] https://justfont.com/huninn/
+  [200] https://justfont.com/lanyangming/
+  [200] https://justfont.com/twroadfont/
+  [200] https://justfont.com/kamabit/
+  [200] https://justfont.com/creamfont/
+  [200] https://justfont.com/bunguan/
+  [200] https://justfont.com/kolliko/
+  [200] https://justfont.com/loksin/
+  [200] https://justfont.com/tearsfont/
+  [200] https://justfont.com/justinbeaverfont/
+  [200] https://fonts.google.com/specimen/Iansui
+  [200] https://fonts.google.com/specimen/Huninn
+  [200] https://github.com/ButTaiwan/LessonOne
+  [200] https://tauhu.tw/
+  [200] https://software.sil.org/doulos/
+  [200] https://github.com/ButTaiwan/genyog-font
+  [200] https://github.com/aiongg/POJFonts
+  [200] https://store.justfont.com/font/meiyifont
+  [200] https://github.com/ButTaiwan/genryu-font
+  [200] https://store.justfont.com/font/amafont
+  [200] https://github.com/ButTaiwan/iansui
+  [200] https://github.com/ButTaiwan/genwan-font
+  [200] https://github.com/ichitenfont/I.Ming
+  [200] https://github.com/localremotetw/TASA-Typeface-Collection
+  [200] https://github.com/ButTaiwan/genyo-font
+  [200] https://github.com/ButTaiwan/gensen-font
+  [200] https://github.com/ButTaiwan/genseki-font
+public/kauhak/
+  [200] https://oh.taigi.info/kauhak/
+public/siataibun/tauko/
+  [200] https://oh.taigi.info/siataibun/tauko/
+  [521] https://tlh.org.tw/tai/hoesin/hoesin_19
+public/chhutpan/choiannphinn/
+  [200] https://oh.taigi.info/chhutpan/choiannphinn/
+public/chhutpan/kisutbunte/
+  [200] https://oh.taigi.info/chhutpan/kisutbunte/
+public/chhutpan/
+  [200] https://oh.taigi.info/chhutpan/
+public/bunchiunn/kiliok/pengan/
+  [200] https://oh.taigi.info/bunchiunn/kiliok/pengan/
+public/chhutpan/siatketoo/
+  [200] https://oh.taigi.info/chhutpan/siatketoo/
+public/chhutpan/chhutpanchheh/
+  [200] https://oh.taigi.info/chhutpan/chhutpanchheh/
+public/kauhak/kauhakchugoan/
+  [200] https://tau.taigi.info/
+  [200] https://oh.taigi.info/kauhak/kauhakchugoan/
+  [200] http://ebook.de-han.org/chupang/
+  [200] https://www.wunan.com.tw/bookdetail?NO=16142
+ERROR: Detected 2 broken links. Scanned 286 links in 8.892 seconds.

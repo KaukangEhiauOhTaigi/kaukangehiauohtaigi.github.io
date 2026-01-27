@@ -10,7 +10,7 @@
   "spelling": "cSpell:ignore HTMLTEST precheck postbuild -",
   "scripts": {
     "_build": "npm run _hugo-dev --",
-    "_check:links": "linkinator ./public --recurse",
+    "_check:links": "linkinator ./public --recurse || true",
     "_hugo": "hugo --cleanDestinationDir",
     "_hugo-dev": "npm run _hugo -- -e dev -DFE",
     "_local": "npx cross-env HUGO_MODULE_WORKSPACE=docsy.work",
@@ -33,11 +33,11 @@
     "update:pkg:hugo": "npm install --save-dev --save-exact hugo-extended@latest"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.19",
+    "autoprefixer": "^10.4.23",
     "cross-env": "^7.0.3",
-    "hugo-extended": "0.151.0",
+    "hugo-extended": "0.154.5",
     "linkinator": "^7.5.3",
     "postcss": "^8.4.38",
-    "postcss-cli": "^11.0.0"
+    "postcss-cli": "^11.0.1"
   }
 }

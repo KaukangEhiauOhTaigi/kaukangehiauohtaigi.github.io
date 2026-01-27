@@ -7,4 +7,4 @@ date: 2099-05-03
 url: siataibun/tauko
 ---
 
-- [《Tâi-oân-jī（台灣字）》](https://tlh.org.tw/tai/hoesin/hoesin_19)
+- [《Tâi-oân-jī（台灣字）》](https://tlh.org.tw/)
