@@ -3,8 +3,8 @@ title: 投稿 Tâu Kó
 linkTitle: 投稿
 description: 台文推薦你去tó位投稿？
 weight: 3
-date: 2099-05-03
+date: 2025-05-03
 url: siataibun/tauko
 ---
 
-- [《Tâi-oân-jī（台灣字）》](https://tlh.org.tw/)
+- [《Tâi-oân-jī（台灣字）》](https://www.tlh.org.tw/)

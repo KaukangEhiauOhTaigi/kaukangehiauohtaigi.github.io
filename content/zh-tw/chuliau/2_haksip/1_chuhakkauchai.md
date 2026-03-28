@@ -3,7 +3,7 @@ title: 自學教材 Chū Ha̍k Kàu-châi
 linkTitle: 自學教材
 description: 台語文入門教材，參考看māi。
 weight: 1
-date: 2099-05-02
+date: 2025-05-02
 url: haksip/chuhakkauchai
 ---
 
