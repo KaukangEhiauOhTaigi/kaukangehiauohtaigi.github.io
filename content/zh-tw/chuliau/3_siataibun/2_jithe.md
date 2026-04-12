@@ -19,6 +19,7 @@ url: siataibun/jithe
 ### 漢羅台文
 
 - [justfont open 粉圓](https://github.com/justfont/open-huninn-font)
+- [justfont 螺體](https://github.com/justfont/Snailfont)
 - [WD-XL Lubrifont 滑油字](https://nightfurysl2001.github.io/WD-XL/zh-Hant.html)
 - [一點明體](https://github.com/ichitenfont/I.Ming)
 - [中規中矩體](https://www.peihe07.uno/projects/2025-05-24-properscript/)
